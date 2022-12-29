@@ -4,7 +4,7 @@
   <artifactId>CrudDemoWithMySql1</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <packaging>war</packaging>
-  <name>CrudDemoWithMySql</name>
+  <name>CrudDemoWithMySql1</name>
   <description>Codvatech Lab Solutions CICD Demo</description>
   <build>
     <resources>
