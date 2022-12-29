@@ -8,7 +8,7 @@ amazon-linux-extras install tomcat8.5
 systemctl start tomcat
 
 
-Step 02 : Application Deployment on Tomcat server 
+Step 02 : Application Deployment on Tomcat 
 
 #!/bin/bash
 systemctl stop tomcat
